@@ -29,6 +29,7 @@ python3 generator.py --seed 495434 --tickets 10
 - This would create 10 bingo tickets and would store the compressed images in a subfolder called ```/bingotickets```.
 
 ## Example Ticket
+<img src="sampleticket.png" width="500"/> 
 
 ## Note
 This project is still under development and will get much smarter over time. This was only an attempt to make a utility to automate the mundane task of searching for BINGO ticket generators online.
