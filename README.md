@@ -13,7 +13,12 @@ Install Pillow from pip by running the following the instructions from the [offi
 - Navigate to a folder where you would like to generate the tickets.
 - Run the 'generator.py' file in that directory.
 ```
-python3 generator.py --seed <any random number> --tickets <number of tickets required>
+usage: generator.py [-h] [--tickets TICKETS] [--seed SEED]
+
+necessary arguments:
+  -h, --help         show this help message and exit
+  --tickets TICKETS  number of tickets required
+  --seed SEED        seed to generate random number
 ```
 
 ## Example
